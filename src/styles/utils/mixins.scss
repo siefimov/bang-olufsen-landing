@@ -30,12 +30,12 @@
   }
 }
 
-[class*='__container'] {
+[class*="__container"] {
   @include content-padding-inline;
 }
 
 @mixin hover($property, $toValue) {
-  transition: #{$property} $effectDuration;
+  transition: #{$property} $effect-duration;
   &:hover {
     #{$property}: $toValue;
   }

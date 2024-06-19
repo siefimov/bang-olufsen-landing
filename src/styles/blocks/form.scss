@@ -8,7 +8,7 @@
     border: 1px solid transparent;
     border-radius: 8px;
     background-color: $color-input-bg;
-    transition: all $effectDuration;
+    transition: all $effect-duration;
 
     &:nth-child(-n + 2) {
       margin-bottom: 16px;

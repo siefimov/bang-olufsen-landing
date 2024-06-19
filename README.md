@@ -2,8 +2,6 @@
 
 ## Project Description
 
-## Project Description
-
 This project is a landing page for Bang & Olufsen, a high-end Danish consumer electronics company that designs and manufactures audio products, television sets, and telephones. The page is designed with a modern and user-friendly interface, showcasing the company's products and services. It's built using BEM methodology for CSS and SCSS as a CSS preprocessor. The project is fully responsive and optimized for mobile, tablet, and desktop screens. The aim is to provide an engaging user experience and to effectively convey the brand's identity and offerings across all devices.
 
 ## Technologies Used
